@@ -7,4 +7,4 @@
 ![Image](text.gif)
 
 ###原理
-[渐变文本原理祥见－－@周楷雯 Kevin 的 Blog ](http://blog.zhowkev.in/2015/07/06/fun-with-mask/)
+[渐变文本原理详见－－@周楷雯 Kevin 的 Blog ](http://blog.zhowkev.in/2015/07/06/fun-with-mask/)
