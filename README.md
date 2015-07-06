@@ -2,7 +2,7 @@
 
 今天看到  @周楷雯Kevin 开源了一份渐变文本的源码 ( Swift 版 )，晚上闲来无事做了一个 Objective-C 版
 
-感谢[@ 周楷雯 Kevin －－ Swif t版](https://github.com/kevinzhow/RealtimeGradientText) 
+感谢[@ 周楷雯 Kevin －－ Swift版](https://github.com/kevinzhow/RealtimeGradientText) 
 
 ![Image](text.gif)
 
